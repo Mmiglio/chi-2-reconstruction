@@ -42,8 +42,7 @@ extern int counter_bad;
 int count1=0;
 void maintth_new(){
 
-
-	TFile *fin = new TFile("/Users/matteo/Desktop/tth/data/ttHTobb_short.root");
+	TFile *fin = new TFile("/lustre/cmswork/hh/alp_moriond_base/ttH_4jets2cmva/ttHTobb.root");
 	if(!fin->IsOpen()){
 		cout<<"Error: cannot open the file!"<<endl;
 		return;
