@@ -7,8 +7,8 @@ Code use for the ttH reconstruction using 3 different chi^2:
 ## To Run: 
 ``root -l maintth_new.cc``
 
-You can use this file as input:
-``/lustre/cmswork/hh/alp_moriond_base/ttH_4jets2cmva/ttHTobb.root``
+You can use also this file as input:
+``/lustre/cmswork/hh/alp_moriond_base/ttH_4jets2cmva/ttHTobb_short.root``
 
 
 ## Output
