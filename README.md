@@ -1,6 +1,6 @@
 ## Description
 Code use for the ttH reconstruction using 3 different chi^2: 
-* chi3 is a $\chi^2$ with 3 d.o.f which constrains the W_1 and W_2 masses and requires the equality of t_1 and t_2 masses 
+* chi3 is a chi^2 with 3 d.o.f which constrains the W_1 and W_2 masses and requires the equality of t_1 and t_2 masses 
 * chi4 is a chi^2 with 4 d.o.f which constrains the W_1 and W_2 masses and also t_1 and t_2 masses 
 * chi5 is a chi^2 with 5 d.o.f which constrains the W_1, W_2, t_1 and t_2 masses an also H mass 
 
